@@ -1,0 +1,1 @@
+FLAG = b"KOMATIKCTF{its_modul4r_like_usu4l}"

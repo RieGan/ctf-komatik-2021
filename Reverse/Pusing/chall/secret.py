@@ -1,0 +1,1 @@
+flag="KOMATIKCTF{fl4wl3ss}"

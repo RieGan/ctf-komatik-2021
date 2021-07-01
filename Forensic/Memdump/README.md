@@ -11,7 +11,7 @@ needed python2.7 module:
 
 ## Deployment
 
-Peserta diberi memdump.7z
+Peserta diberi memdump.7z \
 link: https://bit.ly/3dRZEIL or https://mega.nz/file/uywjiI5L#839wVGl0kdAHOPgWuaUGpEF20zU1AW4Q4ZQJ5lEvZAY
 
 ## Flag

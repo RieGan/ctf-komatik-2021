@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  web-server:
+    container_name: invalid-access-webserver
+    build: .
+    tty: true
+    expose:
+      - '4001'
+    ports:
+      - '4001:4001'
+    restart: always
+
+networks:
+  default:
+    external:
+      name: ctf-network

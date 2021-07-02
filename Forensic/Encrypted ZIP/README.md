@@ -1,7 +1,11 @@
 ## Encrypted ZIP
 Sepertinya ZIP yang diberikan berpassword. Mari kita cari tau cara membukanya.
 
-## Hint
+## Hint<sup>*</sup>
+- USB Keyboard
+- Exif
+
+<sup>*</sup> Kalau kepepet banget
 
 ## Deployment
 

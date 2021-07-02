@@ -1,0 +1,1 @@
+flag = "KOMATIKCTF{xorong_ke_kiri_xorong_ke_kanan}"

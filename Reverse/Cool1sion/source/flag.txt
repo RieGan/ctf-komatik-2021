@@ -1,0 +1,1 @@
+KOMATIKCTF{simple_hash_collision_is_pretty_cool_right}

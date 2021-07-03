@@ -18,3 +18,6 @@ ZeroDiv
 
 # Flag
 KOMATIKCTF{Yo_Ndak_Tau_Kok_Tanya_Saya}
+
+# How to solve
+`<./flag.php`

@@ -8,7 +8,8 @@ def printBlock(cipher, length=16):
 
 
 if __name__ == '__main__':
-    r = process('../chall/chall.py')
+    # r = process('../chall/chall.py')
+    r = remote('35.187.248.149', 4456)
     awal = 'aaaaa'
     dummy = 'a'*16*5
     target = 'a'*16*5

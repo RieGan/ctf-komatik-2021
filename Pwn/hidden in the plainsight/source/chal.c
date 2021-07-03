@@ -36,6 +36,7 @@ int main() {
   write(1, "Input : ", 8);
   scanf("%63s", str);
   printf(str);
+  puts("\n There you go\n");
 
-  return 1;
+  return 0;
 }

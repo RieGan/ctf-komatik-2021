@@ -5,7 +5,7 @@
 Float like a butterfly, sting like a stream
 
 # Hint
-1. Chosen Plaintext
+-
 
 # Note
 Peserta hanya diberikan service chall.py yang terdapat pada directory chall

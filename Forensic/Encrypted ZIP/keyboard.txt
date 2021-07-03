@@ -1,0 +1,5 @@
+ls
+zip -p Heheboi69 encrypted.zip flag_inside.jpg
+ls
+rm flag_inside.jpg
+exit
